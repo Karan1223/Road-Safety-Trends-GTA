@@ -1,0 +1,17 @@
+Graph 2:
+Convert lat and lon to Dimesions otherwise it was taken as average.
+Based on the dataset you provided, here is the summary of pedestrian-related accidents in Toronto in 2006:
+
+1. There were 35 pedestrian-related accidents in 2006 in Toronto.
+2. The majority of accidents occurred at intersections (27 out of 35) compared to mid-block locations.
+3. The most common road class where accidents occurred was "Major Arterial" (22 out of 35).
+4. The Toronto and East York district had the highest number of pedestrian accidents (13 out of 35).
+5. The most frequent road condition during accidents was "Clear" (34 out of 35).
+6. "Daylight" was the prevailing light condition during accidents (29 out of 35).
+7. The most common type of pedestrian accident was "Non-Fatal Injury" (28 out of 35).
+8. The most common age group of pedestrians involved in accidents was 25 to 29 (5 out of 35).
+9. The most common type of vehicle involved in accidents was "Automobile, Station Wagon" (23 out of 35).
+10. The most common impact type was "Turning Movement" (7 out of 35).
+11. "Pedestrian Collisions" accounted for the highest number of accidents (23 out of 35).
+
+Please note that this summary is based on the data you provided and may not be exhaustive. Additionally, if there are specific queries or analyses you would like to perform on this dataset, feel free to let me know, and I can assist you further.
